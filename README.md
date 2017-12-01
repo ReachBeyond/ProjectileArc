@@ -7,3 +7,5 @@ that it could be used for about anything.
 At its core is the ProjectileArc.cs script. This is what leverages the custom
 editor.
 
+Please note that this project requires Unity 2017 to work, as it uses a new editor
+feature added in that version.
